@@ -1,1 +1,1 @@
-# sign-language-detection-translation
+# sign-language-detection-and-translation
